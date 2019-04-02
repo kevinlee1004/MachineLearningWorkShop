@@ -1,2 +1,2 @@
 # MachineLearningWorkShop
-This is Machine Learning Worksop.
+This is Machine Learning Workshop materials
